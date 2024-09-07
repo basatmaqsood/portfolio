@@ -23,9 +23,17 @@ const projects = [
   {
     name: 'Full Stack AirBnb Clone',
     description:
-      'A Full Stack AirBnb Clone using Next JS, Tailwind CSS and Firebase. A simple interface in which user can search for different locations and see the available rooms. User can book a room and see the booking details.',
+      'A Full Stack AirBnb Clone using MERN Stack. A simple interface in which user can search for different locations and see the available rooms. User can book a room and see the booking details.',
     stack: ['MERN Stack', 'Tailwind CSS', 'React JS','Express JS','MongoDB'],
     sourceCode: 'https://github.com/basatmaqsood/airbnb',
+    // livePreview: 'https://github.com',
+  },
+  {
+    name: 'GIPHY Clone',
+    description:
+      'GIPHY website clone where user can search for different GIFs and see the trending GIFs. User can also see the GIFs by different categories and can also see the GIFs by different tags.',
+    stack: ['React JS', 'Tailwind CSS', 'GIPHY API'],
+    sourceCode: 'https://github.com/basatmaqsood/giphy',
     // livePreview: 'https://github.com',
   },
   {
