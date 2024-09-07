@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Basat Maqsood',
-  role: 'Front End Developer',
+  role: 'MERN Stack Developer',
   description:
-    'I am a Software Engineer and a Front End Developer with experience in building web applications using React JS, Next JS, and Node JS according to the Principles of Software Engineering. I am passionate about building scalable and responsive web applications that provide a seamless user experience.',
+    'I am a Software Engineer and a MERN Stack Developer with experience in building web applications using React JS, Next JS, Typescript and Node JS according to the Principles of Software Engineering. I am passionate about building scalable and responsive web applications that provide a seamless user experience.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com/in/basatmaqsood',
@@ -89,15 +89,22 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'MERN Stack',
+  'React JS',
+  'Tailwind CSS',
+  'Next JS',
+  'Typescript',
+  'Node JS',
+  'Express JS',
+  'MongoDB',
+  'Redux',
+  'Material UI',
   'HTML',
   'CSS',
   'JavaScript',
-  'React JS',
-  'Next JS',
-  'Node JS',
-  'Redux',
-  'Material UI',
   'Git',
+  'System Design',
+  'Networking',
   'Java',
   'JavaFX',
   'Oracle SQL',
