@@ -21,6 +21,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Full Stack AirBnb Clone',
+    description:
+      'A Full Stack AirBnb Clone using Next JS, Tailwind CSS and Firebase. A simple interface in which user can search for different locations and see the available rooms. User can book a room and see the booking details.',
+    stack: ['MERN Stack', 'Tailwind CSS', 'React JS','Express JS','MongoDB'],
+    sourceCode: 'https://github.com/basatmaqsood/airbnb',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'Chat Application',
     description:
       'A working Chat Application in React JS with backend in Firebase. A simple interface in which user can search for other users. User can create a chat and send and receive messages from other users.',
